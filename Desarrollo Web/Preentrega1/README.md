@@ -52,8 +52,6 @@ PreEntrega1-Sellitos/
 - Wireframes de todas las 5 páginas
 - Vista mobile (375px)
 - Vista desktop (1200px)
-- Muestra la estructura y organización de elementos
-- Se puede abrir en el navegador o convertir a PDF
 
 ### 2. Estructura HTML
 Se entregan 5 archivos HTML completos:
